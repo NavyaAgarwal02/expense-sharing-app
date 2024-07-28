@@ -2,7 +2,7 @@
 
 ## Setup Instructions
 
-1. Clone the repository.
+1. Clone the repository. `https://github.com/NavyaAgarwal02/expense-sharing-app`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run migrations: `python manage.py migrate`
 4. Start the server: `python manage.py runserver`
